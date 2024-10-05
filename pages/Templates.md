@@ -15,17 +15,24 @@ template-including-parent:: false
 	- type:: [[town]]
 	  icon:: 🏙️
 	  domain:: any
+	- Details of this city:
+		-
 	- #+BEGIN_QUERY
 	   {:title [:b "NPCs"]
 	   :query [:find (pull ?b [*])   
 	   :where
-	  (property ?b :in "Neverwinter")
+	  (property ?b :in "<% current page %>")
 	  (property ?b :type "NPC")
 	   ]}
 	  #+END_QUERY
-	- Taverns
-		- {{query (and (property :in <% current page %>) (property :type [[Tavern]] ))}}
-		  query-table:: true
+	- #+BEGIN_QUERY
+	   {:title [:b "Taverns"]
+	   :query [:find (pull ?b [*])   
+	   :where
+	  (property ?b :in "<% current page %>")
+	  (property ?b :type "NPC")
+	   ]}
+	  #+END_QUERY
 - ## Place
 - template:: place
   template-including-parent:: false
