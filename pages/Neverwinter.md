@@ -9,16 +9,6 @@ domain:: [[Great Kingdom Neverwinter]]
 	  query-properties:: [:page :icon :description]
 	  query-table:: true
 		- query-table:: false
-		  #+BEGIN_QUERY
-		  {
-		    :title "NPCs in Neverwinter"
-		    :query [
-		      :find (pull ?b [*])
-		      :where
-		        [?b :block/properties ?p]
-		    ]
-		  }
-		  #+END_QUERY
 			-
 			-
 - Taverns
