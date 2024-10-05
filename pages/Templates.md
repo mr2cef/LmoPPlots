@@ -17,7 +17,8 @@ template-including-parent:: false
 	  domain:: any
 	- Details of this city:
 		-
-	- #+BEGIN_QUERY
+	- query-table:: false
+	  #+BEGIN_QUERY
 	   {:title [:b "NPCs"]
 	   :query [:find (pull ?b [*])   
 	   :where
@@ -25,7 +26,8 @@ template-including-parent:: false
 	  (property ?b :type "NPC")
 	   ]}
 	  #+END_QUERY
-	- #+BEGIN_QUERY
+	- query-table:: false
+	  #+BEGIN_QUERY
 	   {:title [:b "Taverns"]
 	   :query [:find (pull ?b [*])   
 	   :where
