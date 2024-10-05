@@ -1,6 +1,6 @@
 type:: [[town]]
 icon:: 🏙️
-domain:: any
+domain:: [[Great Kingdom Neverwinter]]
 
 - Details of this city:
 	-
@@ -14,7 +14,6 @@ domain:: any
   (property ?b :type "NPC")
    ]}
   #+END_QUERY
-	- property
 - query-table:: true
   query-properties:: [:icon :page :description]
   #+BEGIN_QUERY
