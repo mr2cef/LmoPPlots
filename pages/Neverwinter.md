@@ -9,6 +9,13 @@ domain:: [[Great Kingdom Neverwinter]]
 	  query-properties:: [:page :icon :description]
 	  query-table:: true
 	- query-table:: false
+	  #+BEGIN_QUERY
+	   {:title [:b "Find my tasks"]  ; this is new, it's a title!
+	   :query [:find (pull ?b [*])   ; find me a bunch of blocks
+	   :where
+	   (in ?b #{"LATER"})          ; any task ?b that is LATER
+	   ]}
+	  #+END_QUERY
 		-
 		-
 - Taverns
