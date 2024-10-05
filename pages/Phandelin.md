@@ -15,7 +15,13 @@ domain:: [[Great Kingdom Neverwinter]]
   (property ?b :type "NPC")
    ]}
   #+END_QUERY
--
-- Taverns
-	- {{query (and (property :in [[Phandelin]]) (property :type [[Tavern]] ))}}
-	  query-table:: true
+- query-table:: true
+  query-properties:: [:icon :page :description]
+  #+BEGIN_QUERY
+   {:title [:b "Tarverns"]
+   :query [:find (pull ?b [*])   
+   :where
+  (property ?b :in "Phandelin")
+  (property ?b :type "Tavern")
+   ]}
+  #+END_QUERY
