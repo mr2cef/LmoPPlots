@@ -8,17 +8,17 @@ domain:: [[Great Kingdom Neverwinter]]
 	- {{query (and (property :in [[Neverwinter]]) (property :type [[NPC]]))}}
 	  query-properties:: [:page :icon :description]
 	  query-table:: true
-		- query-table:: false
-		  #+BEGIN_QUERY
-		   {:title [:b "Find my tasks"]
-		   :query [:find (pull ?b [*])   
-		   :where
-		  [?b :block/properties ?prop]
-		   (in ?b #{"LATER"})         
-		   ]}
-		  #+END_QUERY
-			-
-			-
+	- query-table:: false
+	  #+BEGIN_QUERY
+	   {:title [:b "Find my tasks"]
+	   :query [:find (pull ?b [*])   
+	   :where
+	     [?b :block/properties ?prop]
+	     [(get ?p :in) [[Neverwinter]]]     
+	   ]}
+	  #+END_QUERY
+		-
+		-
 - Taverns
 	- {{query (and (property :in [[Neverwinter]]) (property :type [[Tavern]] ))}}
 	  query-table:: true
