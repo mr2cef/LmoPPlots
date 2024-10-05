@@ -4,19 +4,19 @@ domain:: [[Great Kingdom Neverwinter]]
 
 - Große Stadt an der [[Hammersea]]
 - Hauptstadt von [[Great Kingdom Neverwinter]]
-- NPCs
-	- query-sort-by:: block
-	  query-table:: true
-	  query-sort-desc:: true
-	  query-properties:: [:page :descri :series]
-	  #+BEGIN_QUERY
-	   {:title [:b "NPCs"]
-	   :query [:find (pull ?b [*])   
-	   :where
-	  (property ?b :in "Neverwinter")
-	  (property ?b :type "NPC")
-	   ]}
-	  #+END_QUERY
+- query-sort-by:: block
+  query-table:: true
+  query-sort-desc:: true
+  query-properties:: [:page :description]
+  #+BEGIN_QUERY
+   {:title [:b "NPCs"]
+   :query [:find (pull ?b [*])   
+   :where
+  (property ?b :in "Neverwinter")
+  (property ?b :type "NPC")
+   ]}
+  #+END_QUERY
+  :PROPERTIES:
 - Taverns
 	- {{query (and (property :in [[Neverwinter]]) (property :type [[Tavern]] ))}}
 	  query-table:: true
