@@ -16,8 +16,6 @@ domain:: [[Great Kingdom Neverwinter]]
 		      :find (pull ?b [*])
 		      :where
 		        [?b :block/properties ?p]
-		        [(get ?p :in) [[Neverwinter]]]
-		        [(get ?p :type) [[NPC]]]
 		    ]
 		  }
 		  #+END_QUERY
