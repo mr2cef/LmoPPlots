@@ -21,7 +21,7 @@ domain:: [[Great Kingdom Neverwinter]]
    {:title [:b "Taverns"]
    :query [:find (pull ?b [*])   
    :where
-  (property ?b :in "Fort Hammer]]")
+  (property ?b :in "Fort Hammer")
   (property ?b :type "taver")
    ]}
   #+END_QUERY
