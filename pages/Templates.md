@@ -18,6 +18,7 @@ template-including-parent:: false
 	-
 	- {{query (and (property :in <% current page %>) (property :type [[NPC]]))}}
 	  query-table:: true
+	  query-properties:: [:icon :page :description]
 	- Taverns
 		- {{query (and (property :in <% current page %>) (property :type [[Tavern]] ))}}
 		  query-table:: true
