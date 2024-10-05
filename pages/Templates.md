@@ -35,7 +35,7 @@ template-including-parent:: false
 	   :query [:find (pull ?b [*])   
 	   :where
 	  (property ?b :in "<% current page %>")
-	  (property ?b :type "tavern")
+	  (property ?b :type "taver")
 	   ]}
 	  #+END_QUERY
 - ## Place
