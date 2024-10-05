@@ -15,9 +15,9 @@ template-including-parent:: false
 	- type:: [[town]]
 	  icon:: 🏙️
 	  domain:: any
-	- NPCs
-		- {{query (and (property :in <% current page %>) (property :type [[NPC]]))}}
-		  query-table:: true
+	-
+	- {{query (and (property :in <% current page %>) (property :type [[NPC]]))}}
+	  query-table:: true
 	- Taverns
 		- {{query (and (property :in <% current page %>) (property :type [[Tavern]] ))}}
 		  query-table:: true
