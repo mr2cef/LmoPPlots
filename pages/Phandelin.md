@@ -5,8 +5,8 @@ icon:: 🏙️
 domain:: [[Great Kingdom Neverwinter]]
 
 - Dorf, mit Abenteuer
-- query-properties:: 
-  query-properties::
+- query-table:: true
+  query-properties:: [:icon :page :description]
   #+BEGIN_QUERY
    {:title [:b "NPCs"]
    :query [:find (pull ?b [*])   
@@ -15,6 +15,7 @@ domain:: [[Great Kingdom Neverwinter]]
   (property ?b :type "NPC")
    ]}
   #+END_QUERY
+-
 - Taverns
 	- {{query (and (property :in [[Phandelin]]) (property :type [[Tavern]] ))}}
 	  query-table:: true
