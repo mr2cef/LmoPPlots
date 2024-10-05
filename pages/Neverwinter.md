@@ -12,11 +12,11 @@ domain:: [[Great Kingdom Neverwinter]]
 	  query-table:: true
 	  query-sort-desc:: true
 	  #+BEGIN_QUERY
-	   {:title [:b "Find my tasks"]
-	   :query [:find (pull ?b [*])   
+	   {:title [:b "NPCs"]
+	   :query [:find (pull ?b [page, description])   
 	   :where
-	  (property ?b :in "[[Neverwinter]]")
-	  (property ?b :type " [[NPC]] ")
+	  (property ?b :in "Neverwinter")
+	  (property ?b :type "NPC")
 	   ]}
 	  #+END_QUERY
 		-
