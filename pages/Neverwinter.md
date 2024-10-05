@@ -8,13 +8,15 @@ domain:: [[Great Kingdom Neverwinter]]
 	- {{query (and (property :in [[Neverwinter]]) (property :type [[NPC]]))}}
 	  query-properties:: [:page :icon :description]
 	  query-table:: true
-	- query-table:: false
+	- query-sort-by:: block
+	  query-table:: true
+	  query-sort-desc:: true
 	  #+BEGIN_QUERY
 	   {:title [:b "Find my tasks"]
 	   :query [:find (pull ?b [*])   
 	   :where
-	     [?b :block/properties ?prop]
-	     [(get ?p :in) [[Neverwinter]]]     
+	  (property ?b :in "[[Neverwinter]]")
+	  (property ?b :type " [[NPC]] ")
 	   ]}
 	  #+END_QUERY
 		-
