@@ -1,0 +1,2 @@
+- besitzen die [[Statue von Inmon]]
+- Ist ihr Heiligtum

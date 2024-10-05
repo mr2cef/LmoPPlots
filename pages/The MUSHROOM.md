@@ -1,0 +1,2 @@
+- #Artefact
+- Macht doppelt so groß, und gibt doppelte HP

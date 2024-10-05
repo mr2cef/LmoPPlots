@@ -1,0 +1,5 @@
+- #faction, #[[kriminelle Vereinigung]]
+- Haben sich auf Erdmagie konzentiert.
+- Mafiöse Vereinigung
+- Kopf der Gruppe ist [[Anzin Foregemaul]], der beim [[Prision Break von Neverwinter]] mit seinen Kumpanen entkommen konnte
+-

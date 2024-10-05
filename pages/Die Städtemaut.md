@@ -1,0 +1,7 @@
+- #Plotidee
+- Eine Stadt am Meer verlangt sehr hohe Maut
+- Grund ist eine Hungersnot, weil die Fischer nichts mehr fangen
+- Grund dafür ist, weil die [[Hammerländische Möven]] mehr Fische fressen, weil sie keine Würmer bekommen
+- Grund dafür ist, dass die Würmer von den [[Erdflüsterern]] als magische Ressource ausgebeutet werden.
+- Die [[Wurmessenz]] wird für Erdmagie verwendet. Es können magisch unbegabte Magie wirken.
+-

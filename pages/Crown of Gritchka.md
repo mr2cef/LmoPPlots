@@ -1,0 +1,2 @@
+- #Artefact
+- Kann Mineons bannen
