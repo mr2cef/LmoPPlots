@@ -5,8 +5,7 @@ domain:: any
 - Details of this city:
 	-
 - query-table:: true
-  query-properties:: [:description :icon :page]
-  query-property:: [:icon :page :description]
+  query-properties:: [:icon :page :description]
   #+BEGIN_QUERY
    {:title [:b "NPCs"]
    :query [:find (pull ?b [*])   
@@ -15,6 +14,7 @@ domain:: any
   (property ?b :type "NPC")
    ]}
   #+END_QUERY
+	- property
 - query-table:: true
   query-properties:: [:icon :page :description]
   #+BEGIN_QUERY
