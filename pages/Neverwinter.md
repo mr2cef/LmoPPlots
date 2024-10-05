@@ -8,7 +8,7 @@ domain:: [[Great Kingdom Neverwinter]]
 	- query-sort-by:: block
 	  query-table:: true
 	  query-sort-desc:: true
-	  query-properties:: [:description :block :page]
+	  query-properties:: [:page :descri :series]
 	  #+BEGIN_QUERY
 	   {:title [:b "NPCs"]
 	   :query [:find (pull ?b [*])   
@@ -16,7 +16,6 @@ domain:: [[Great Kingdom Neverwinter]]
 	  (property ?b :in "Neverwinter")
 	  (property ?b :type "NPC")
 	   ]}
-	  :query-proerties
 	  #+END_QUERY
 - Taverns
 	- {{query (and (property :in [[Neverwinter]]) (property :type [[Tavern]] ))}}
