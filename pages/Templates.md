@@ -28,14 +28,14 @@ template-including-parent:: false
 	  (property ?b :type "NPC")
 	   ]}
 	  #+END_QUERY
-	- query-properties:: [:icon :page :description]
-	  query-table:: true
+	- query-table:: true
+	  query-properties:: [:icon :page :description]
 	  #+BEGIN_QUERY
 	   {:title [:b "Taverns"]
 	   :query [:find (pull ?b [*])   
 	   :where
 	  (property ?b :in "<% current page %>")
-	  (property ?b :type "NPC")
+	  (property ?b :type "tavern")
 	   ]}
 	  #+END_QUERY
 - ## Place
