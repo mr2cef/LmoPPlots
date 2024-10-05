@@ -8,10 +8,10 @@ domain:: [[Great Kingdom Neverwinter]]
 	- query-sort-by:: block
 	  query-table:: true
 	  query-sort-desc:: true
-	  query-properties:: [:page :description]
+	  query-properties:: [:description :block :page]
 	  #+BEGIN_QUERY
 	   {:title [:b "NPCs"]
-	   :query [:find (pull ?b [:block/page {:block/properties [:description]}])   
+	   :query [:find (pull ?b [block/page])   
 	   :where
 	  (property ?b :in "Neverwinter")
 	  (property ?b :type "NPC")
