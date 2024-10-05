@@ -18,6 +18,14 @@ domain:: [[Great Kingdom Neverwinter]]
 	   ]}
 	  #+END_QUERY
 		-
+		- +BEGIN_QUERY
+		   {:title [:b "NPCs"]
+		   :query [:find (pull ?b [*])   
+		   :where
+		  (property ?b :in "Neverwinter")
+		  (property ?b :type "NPC")
+		   ]}
+		  #+END_QUERY
 - Taverns
 	- {{query (and (property :in [[Neverwinter]]) (property :type [[Tavern]] ))}}
 	  query-table:: true
