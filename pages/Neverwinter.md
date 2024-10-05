@@ -10,17 +10,14 @@ domain:: [[Great Kingdom Neverwinter]]
 	  query-table:: true
 	- #+BEGIN_QUERY
 	  {
-	    :title "NPCs in Neverwinter (Sorted by Page Name)"
+	    :title "NPCs in Neverwinter"
 	    :query [
 	      :find (pull ?b [*])
 	      :where
 	        [?b :block/properties ?p]
 	        [(get ?p :in) [[Neverwinter]]]
 	        [(get ?p :type) [[NPC]]]
-	        [?b :block/page ?page]
-	        [?page :block/name ?page-name]
-	      ]
-	    :result-transform (fn [result] (sort-by (fn [r] (get-in r [:block/page :block/name])) result))
+	    ]
 	  }
 	  #+END_QUERY
 - Taverns
