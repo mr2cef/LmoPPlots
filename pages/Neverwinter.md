@@ -8,9 +8,9 @@ domain:: [[Great Kingdom Neverwinter]]
 	- {{query (and (property :in [[Neverwinter]]) (property :type [[NPC]]))}}
 	  query-properties:: [:page :icon :description]
 	  query-table:: true
-		- query-table:: false
-			-
-			-
+	- query-table:: false
+		-
+		-
 - Taverns
 	- {{query (and (property :in [[Neverwinter]]) (property :type [[Tavern]] ))}}
 	  query-table:: true
