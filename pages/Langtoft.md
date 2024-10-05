@@ -1,6 +1,6 @@
 type:: [[town]]
 icon:: 🏙️
-domain:: any
+domain:: [[Great Kingdom Neverwinter]]
 
 - Details of this city:
 	-
