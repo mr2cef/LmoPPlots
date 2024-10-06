@@ -7,5 +7,6 @@
 - An ancient dwarf stonemason named [[Thali]] seeks a company of adventurers to find and explore the ancient ruins of [[Difeld Tower]]. Before the end, the party finds itself facing a moral quandry.
 - A wounded sage named [[Aton]] seeks a company of adventurers to escort a caravan of exotic goods safely to the dwarven town of [[Nulbadush]].
 - An angry elf archer named [[Cune]] seeks a company of adventurers to expose a corrupt aristocrat who serves the [[Lich of the March of the Damned]].
-- A wealthy ex-adventurer named [[Leda]] seeks a company of adventurers to recover and destroy an evil artifact from the Prison of Sema the Adamant. Moreover, the party must complete the quest amidst a natural disaster.
-- A  charming noblewoman named [[Adas]] seeks a company of adventurers to hunt down and kill Illfang the Kobold Lord. Moreover, the party must complete the quest amidst a terrible plague.
+- A wealthy ex-adventurer named [[Leda]] seeks a company of adventurers to recover and destroy an evil artifact from the Prison of [[Sema the Adamant]]. Moreover, the party must complete the quest amidst a natural disaster.
+- A  charming noblewoman named [[Adas]] seeks a company of adventurers to hunt down and kill [[Illfang the Kobold]] Lord. Moreover, the party must complete the quest amidst a terrible plague.
+-
