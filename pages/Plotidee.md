@@ -1,25 +1,11 @@
 - [[Die Städtemaut]]
 - An angry ex-adventurer named [[Cenwiu]] seeks a company of adventurers to escort the axe [[Luminous Subjugator]] safely to the town of [[Gafeld]]. Before  the end, the party discovers that his information is wrong.
-- A charming priest named Enes seeks a company of adventurers to expose a corrupt aristocrat who serves Aremer the Horrendous. A haunted ex-adventurer named Aenert seeks a company of  
-   adventurers to discover who is murdering his peers, and why.
-- An ancient elven lady named Broda seeks a company of adventurers to expose
-  a corrupt aristocrat who serves The Goblin King. Before the end, the 
-  party discovers that she is not what she seems.
-- A wounded giant named Bega seeks a company of adventurers to slay the 
-  Leviathan of the Sea of Marpa and retrieve its brain. Moreover, the 
-  party must complete the quest without leaving any trace of their 
-  involvement.
-- An ancient dwarf stonemason named Thali seeks a company of adventurers to 
-  find and explore the ancient ruins of Difeld Tower. Before the end, the 
-  party finds itself facing a moral quandry.
-- A wounded sage named Aton seeks a company of adventurers to escort a 
-  caravan of exotic goods safely to the dwarven town of Nulbadush.
-- An angry elf archer named Cune seeks a company of adventurers to expose a 
-  corrupt aristocrat who serves the Lich of the March of the Damned.
-- A wealthy ex-adventurer named Leda seeks a company of adventurers to 
-  recover and destroy an evil artifact from the Prison of Sema the 
-  Adamant. Moreover, the party must complete the quest amidst a natural 
-  disaster.
-- A  charming noblewoman named Adas seeks a company of adventurers to hunt 
-  down and kill Illfang the Kobold Lord. Moreover, the party must complete
-  the quest amidst a terrible plague.
+- A charming priest named [[Enes]] seeks a company of adventurers to expose a corrupt aristocrat who serves [[Aremer the Horrendous]].
+- A haunted ex-adventurer named [[Aenert]] seeks a company of   adventurers to discover who is murdering his peers, and why.
+- An ancient elven lady named [[Broda]] seeks a company of adventurers to expose a corrupt aristocrat who serves The Goblin King. Before the end, the  party discovers that she is not what she seems.
+- A wounded giant named Bega seeks a company of adventurers to slay the  Leviathan of the Sea of Marpa and retrieve its brain. Moreover, the  party must complete the quest without leaving any trace of their  involvement.
+- An ancient dwarf stonemason named Thali seeks a company of adventurers to  find and explore the ancient ruins of Difeld Tower. Before the end, the party finds itself facing a moral quandry.
+- A wounded sage named Aton seeks a company of adventurers to escort a caravan of exotic goods safely to the dwarven town of Nulbadush.
+- An angry elf archer named Cune seeks a company of adventurers to expose a corrupt aristocrat who serves the Lich of the March of the Damned.
+- A wealthy ex-adventurer named Leda seeks a company of adventurers to recover and destroy an evil artifact from the Prison of Sema the Adamant. Moreover, the party must complete the quest amidst a natural disaster.
+- A  charming noblewoman named Adas seeks a company of adventurers to hunt down and kill Illfang the Kobold Lord. Moreover, the party must complete the quest amidst a terrible plague.
