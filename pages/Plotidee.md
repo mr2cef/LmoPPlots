@@ -6,25 +6,25 @@
 	- **Plothook**: Ein mächtiges Artefakt wurde in drei Teile zerschlagen, und verschiedene Fraktionen jagen danach.
 	- **Quest**: Die Helden müssen die Fragmente vor der feindlichen Fraktion finden und entscheiden, wem sie das vereinte Artefakt übergeben – oder ob sie es selbst behalten.
 - **Geisterstadt im Nebel**
-	- **Plothook**: Eine mystische Geisterstadt taucht nur einmal im Jahrhundert aus dem Nebel auf.
+	- **Plothook**: Eine [[mystische Geisterstadt]] taucht nur einmal im Jahrhundert aus dem Nebel auf.
 	- **Quest**: Die Helden sollen den Grund für das Erscheinen der Stadt herausfinden und den Fluch brechen, der ihre Bewohner in Geister verwandelt hat, bevor die Stadt wieder verschwindet.
 - **Das Herz des Vulkans**
-	- **Plothook**: Ein Vulkan droht, ein ganzes Land zu zerstören, und nur ein magisches Artefakt kann ihn beruhigen.
+	- **Plothook**: Ein [[Vulkan]] droht, ein ganzes Land zu zerstören, und nur ein magisches Artefakt kann ihn beruhigen.
 	- **Quest**: Die Helden müssen in den Vulkan reisen, um das Herz zu erreichen, das von einem Feuerelementar bewacht wird, und entscheiden, ob sie den Elementar bekämpfen oder verhandeln.
 - **Die verlorene Karawane**
-	- **Plothook**: Eine reiche Karawane verschwindet spurlos in der Wüste.
+	- **Plothook**: Eine[[reiche Karawane]]  verschwindet spurlos in der Wüste.
 	- **Quest**: Die Helden sollen die Karawane finden, nur um herauszufinden, dass sie von einer uralten Kreatur überfallen wurde, die in den Ruinen einer unterirdischen Stadt lauert.
 - **Die unsichtbare Bedrohung**
-	- **Plothook**: Eine unsichtbare Kreatur terrorisiert eine Stadt, stiehlt und tötet lautlos.
+	- **Plothook**: Eine [[unsichtbare Kreatur]] terrorisiert eine Stadt, stiehlt und tötet lautlos.
 	- **Quest**: Die Helden müssen herausfinden, was diese unsichtbare Kreatur ist, und den dahinter stehenden Kult aufdecken, der finstere Pläne schmiedet.
 - **Die vergiftete Quelle**
-	- **Plothook**: Eine Quelle, die die Lebensader eines ganzen Königreichs ist, wurde vergiftet, und die Bewohner erkranken.
+	- **Plothook**: [[Eine Quelle]], die die Lebensader eines ganzen Königreichs ist, wurde vergiftet, und die Bewohner erkranken.
 	- **Quest**: Die Helden müssen die Ursache der Vergiftung herausfinden, die auf einen hinterhältigen Alchemisten zurückzuführen ist, der sich an der Zivilisation rächen will. Dabei müssen sie auch die magischen Kreaturen im Wald überzeugen, ihnen zu helfen.
 - **Das flüsternde Buch**
-	- **Plothook**: Ein altes, mysteriöses Buch flüstert geheime Informationen und ist von den Schatten einer verlorenen Zivilisation umgeben.
+	- **Plothook**: Ein altes, [[mysteriöses Buch]] flüstert geheime Informationen und ist von den Schatten einer verlorenen Zivilisation umgeben.
 	- **Quest**: Die Helden müssen das Geheimnis des Buches entschlüsseln, während sie von anderen Abenteurern verfolgt werden, die ebenfalls dessen Macht nutzen wollen. In der finalen Konfrontation müssen sie entscheiden, ob sie das Wissen für sich selbst nutzen oder es bewahren.
 - **Der verschollene Champion**
-	- **Plothook**: Der legendäre Champion, der einst das Königreich vor einer großen Bedrohung rettete, ist verschwunden.
+	- **Plothook**: Der legendäre [[Champion]], der einst das Königreich vor einer großen Bedrohung rettete, ist verschwunden.
 	- **Quest**: Die Helden werden angeheuert, um ihn zu finden, und entdecken, dass er in einem magischen Schlaf gefangen ist, der von einem alten Feind verursacht wurde. Sie müssen ihn aus den Fängen dieser Bedrohung befreien, bevor eine neue Gefahr auf das Königreich zukommt.
 - **Die stumme Gilde**
 	- **Plothook**: Eine berüchtigte [[Diebesgilde]] hat ihre Stimme verloren und kann keine Aufträge mehr annehmen.
