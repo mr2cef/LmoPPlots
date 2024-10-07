@@ -423,7 +423,7 @@
  :orphan-pages? false
  :builtin-pages? false
  :excluded-pages? false}
- :graph/forcesettings {:link-dist 10
+ :graph/forcesettings {:link-dist 180
  :charge-range 1400
  :charge-strength -1000}
  :journal/page-title-format "yyyy-MM-dd"
