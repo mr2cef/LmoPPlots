@@ -11,12 +11,9 @@
 - **Das Herz des Vulkans**
 	- **Plothook**: Ein Vulkan droht, ein ganzes Land zu zerstören, und nur ein magisches Artefakt kann ihn beruhigen.
 	- **Quest**: Die Helden müssen in den Vulkan reisen, um das Herz zu erreichen, das von einem Feuerelementar bewacht wird, und entscheiden, ob sie den Elementar bekämpfen oder verhandeln.
-- 8. **Die vergessenen Götter**  
-   **Plothook**: Priester eines lange vergessenen Pantheons versuchen, ihre Götter wieder zum Leben zu erwecken.  
-   **Quest**: Die Helden müssen die Priester stoppen, bevor die Götter zurückkehren und die Welt ins Chaos stürzen, und dabei entscheiden, ob die Götter tatsächlich zerstörerisch sind oder missverstanden.
-- 9. **Die verlorene Karawane**  
-   **Plothook**: Eine reiche Karawane verschwindet spurlos in der Wüste.  
-   **Quest**: Die Helden sollen die Karawane finden, nur um herauszufinden, dass sie von einer uralten Kreatur überfallen wurde, die in den Ruinen einer unterirdischen Stadt lauert.
-- 10. **Die unsichtbare Bedrohung**  
-   **Plothook**: Eine unsichtbare Kreatur terrorisiert eine Stadt, stiehlt und tötet lautlos.  
-   **Quest**: Die Helden müssen herausfinden, was diese unsichtbare Kreatur ist, und den dahinter stehenden Kult aufdecken, der finstere Pläne schmiedet.
+- **Die verlorene Karawane**
+	- **Plothook**: Eine reiche Karawane verschwindet spurlos in der Wüste.
+	- **Quest**: Die Helden sollen die Karawane finden, nur um herauszufinden, dass sie von einer uralten Kreatur überfallen wurde, die in den Ruinen einer unterirdischen Stadt lauert.
+- 10. **Die unsichtbare Bedrohung**
+	- **Plothook**: Eine unsichtbare Kreatur terrorisiert eine Stadt, stiehlt und tötet lautlos.
+	- **Quest**: Die Helden müssen herausfinden, was diese unsichtbare Kreatur ist, und den dahinter stehenden Kult aufdecken, der finstere Pläne schmiedet.
