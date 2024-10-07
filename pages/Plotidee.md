@@ -3,7 +3,7 @@
 	- **Plothook**: Ein Dorf bittet verzweifelt um Hilfe, da die [[Ernte verflucht]] ist und Albträume verursacht.
 	- **Quest**: Die Helden sollen herausfinden, dass der Fluch von einer Dryade stammt, die das Dorf einst beschützte, nun aber aus Rache gegen die Dorfbewohner vorgeht. Sie müssen entscheiden, ob sie den Fluch brechen oder den Zorn der Dryade beschwichtigen.
 - **Das zerbrochene Artefakt**
-	- **Plothook**: Ein [[mächtiges Artefakt]] wurde in drei Teile zerschlagen, und verschiedene Fraktionen jagen danach.
+	- **Plothook**: Ein mächtiges [[Artefakt]] wurde in drei Teile zerschlagen, und verschiedene Fraktionen jagen danach.
 	- **Quest**: Die Helden müssen die Fragmente vor der feindlichen Fraktion finden und entscheiden, wem sie das vereinte Artefakt übergeben – oder ob sie es selbst behalten.
 - **Geisterstadt im Nebel**
 	- **Plothook**: Eine [[mystische Geisterstadt]] taucht nur einmal im Jahrhundert aus dem Nebel auf.
