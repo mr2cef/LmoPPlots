@@ -24,10 +24,11 @@
 	- **Plothook**: Ein altes, mysteriöses Buch flüstert geheime Informationen und ist von den Schatten einer verlorenen Zivilisation umgeben.
 	- **Quest**: Die Helden müssen das Geheimnis des Buches entschlüsseln, während sie von anderen Abenteurern verfolgt werden, die ebenfalls dessen Macht nutzen wollen. In der finalen Konfrontation müssen sie entscheiden, ob sie das Wissen für sich selbst nutzen oder es bewahren.
 - **Der verschollene Champion**
-	- **Plothook**: Der legendäre Champion, der einst das Königreich vor einer großen Bedrohung rettete, ist verschwunden.   **Quest**: Die Helden werden angeheuert, um ihn zu finden, und entdecken, dass er in einem magischen Schlaf gefangen ist, der von einem alten Feind verursacht wurde. Sie müssen ihn aus den Fängen dieser Bedrohung befreien, bevor eine neue Gefahr auf das Königreich zukommt.
-- **Die stumme Gilde**  
-  **Plothook**: Eine berüchtigte Diebesgilde hat ihre Stimme verloren und kann keine Aufträge mehr annehmen.  
-  **Quest**: Die Helden sollen herausfinden, dass ein Zauber auf der Gilde lastet, der von einem rivalisierenden Meisterdieb ausgesprochen wurde. Sie müssen die Gilde unterstützen, den Zauber zu brechen und gleichzeitig ihre eigenen Ziele verfolgen.
-- **Das verschwundene Lied**  
-  **Plothook**: Ein magisches Lied, das die Jahreszeiten und das Wetter kontrolliert, wurde gestohlen.  
-  **Quest**: Die Helden müssen den Dieb finden und das Lied zurückbringen, um das Gleichgewicht der Natur wiederherzustellen. Auf ihrer Reise treffen sie auf mystische Wesen, die versuchen, das Lied für ihre eigenen Zwecke zu nutzen.
+	- **Plothook**: Der legendäre Champion, der einst das Königreich vor einer großen Bedrohung rettete, ist verschwunden.
+	- **Quest**: Die Helden werden angeheuert, um ihn zu finden, und entdecken, dass er in einem magischen Schlaf gefangen ist, der von einem alten Feind verursacht wurde. Sie müssen ihn aus den Fängen dieser Bedrohung befreien, bevor eine neue Gefahr auf das Königreich zukommt.
+- **Die stumme Gilde**
+	- **Plothook**: Eine berüchtigte [[Diebesgilde]] hat ihre Stimme verloren und kann keine Aufträge mehr annehmen.
+	- **Quest**: Die Helden sollen herausfinden, dass ein Zauber auf der Gilde lastet, der von einem rivalisierenden Meisterdieb ausgesprochen wurde. Sie müssen die Gilde unterstützen, den Zauber zu brechen und gleichzeitig ihre eigenen Ziele verfolgen.
+- **Das verschwundene Lied**
+	- **Plothook**: Ein magisches Lied, das die Jahreszeiten und das[[Wetter kontrolliert]] , wurde gestohlen.
+	- **Quest**: Die Helden müssen den Dieb finden und das Lied zurückbringen, um das Gleichgewicht der Natur wiederherzustellen. Auf ihrer Reise treffen sie auf mystische Wesen, die versuchen, das Lied für ihre eigenen Zwecke zu nutzen.
