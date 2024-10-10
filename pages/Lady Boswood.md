@@ -1,6 +1,7 @@
 type:: [[NPC]]
 in:: [[Neverwinter Forest]] 
-icon:: 💀
+icon:: 👤
+status:: 
 description:: Ehemalige Wächterin vom [[Gefängnis von Igmor der Schreckliche]]
 
 - ### Traits:
