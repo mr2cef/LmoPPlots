@@ -1,8 +1,7 @@
 type:: [[NPC]]
 in:: [[Langtoft]] Umgebung 
 icon:: 👤
-status:: /emog
-
+status:: 😏
 description:: Anfüherer der [[Erdflüsterern]]
 
 - ### Traits:
