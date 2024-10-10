@@ -1,4 +1,4 @@
--
-	- type:: [[Artefakt]] 
-	  icon:: 💍
+type:: [[Artefakt]] 
+icon:: 💍
+
 - Kann Mineons bannen
