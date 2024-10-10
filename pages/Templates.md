@@ -56,4 +56,5 @@ template-including-parent:: false
 	- type:: [[Plot]]
 	  icon:: ✍️
 -
--
+- ## Artefact
+	-
