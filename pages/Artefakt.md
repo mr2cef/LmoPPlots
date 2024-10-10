@@ -1,5 +1,6 @@
 type:: [[Artefakt]] 
 icon:: 💍
+exclude-from-graph-view:: true
 
 - {{query (property :type [[Artefakt]])}}
   query-table:: true
