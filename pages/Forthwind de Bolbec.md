@@ -1,6 +1,6 @@
 type:: [[NPC]]
 in:: Tot und verschollen
-icon:: 👤
+icon:: 💀
 description:: Gründer der [[Curiosity Library]]
 
 - ### Traits:
