@@ -1,4 +1,5 @@
--
+icon:: 🧠
+
 - [[Die Städtemaut]]
 - **Verfluchte Ernte**
 	- **Plothook**: Ein Dorf bittet verzweifelt um Hilfe, da die [[Ernte verflucht]] ist und Albträume verursacht.
