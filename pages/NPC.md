@@ -5,7 +5,7 @@ exclude-from-graph-view:: false
   query-sort-by:: in
   query-table:: true
   query-sort-desc:: false
-  query-properties:: [:page :in :descitiption :description]
+  query-properties:: [:page :in :descitiption :description :icon]
 -
 -
 -
