@@ -58,6 +58,6 @@ template-including-parent:: false
 -
 - ## Artefact
 - template:: artefact
-  template-including-parent:: fals
+  template-including-parent:: false
 	- type:: [[Artefakt]] 
 	  icon:: 💍
