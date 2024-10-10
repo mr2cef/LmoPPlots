@@ -57,7 +57,7 @@ template-including-parent:: false
 	  icon:: ✍️
 -
 - ## Artefact
-	- template:: arte
-	  template-including-parent:: fals
-		- type:: artefact
-		  icon:: 💍
+- template:: artefact
+  template-including-parent:: fals
+	- type:: [[Artefakt]] 
+	  icon:: 💍
