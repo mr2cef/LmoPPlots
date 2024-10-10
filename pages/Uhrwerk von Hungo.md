@@ -1,5 +1,5 @@
 type:: [[Artefakt]] 
-ic
+icon:: 💍
 
 - Beschwört einen Golem der im Kampf unterstützt
 - Gebaut von [[Hungo Dawel]]
