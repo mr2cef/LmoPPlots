@@ -1,6 +1,6 @@
 type:: [[NPC]]
 in:: [[Cragmore castle]] 
-icon:: 💀
+icon:: 👤
 description:: tot, ehemaliger Anführer
 
 - ### Traits:
