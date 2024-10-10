@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["plot" "Plot" "Sessions" "tavern" "town" "place" "NPC"]
+ :favorites ["Artefakt" "plot" "Plot" "Sessions" "tavern" "town" "place" "NPC"]
 
  ;; Set flashcards interval.
  ;; Expected value:
