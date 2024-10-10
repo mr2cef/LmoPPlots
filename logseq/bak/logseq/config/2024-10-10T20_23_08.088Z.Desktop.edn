@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["Plot" "Sessions" "tavern" "town" "place" "NPC"]
+ :favorites ["plot" "Plot" "Sessions" "tavern" "town" "place" "NPC"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -420,8 +420,8 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :graph/settings {:journal? true
- :orphan-pages? false
- :builtin-pages? true
+ :orphan-pages? true
+ :builtin-pages? false
  :excluded-pages? false}
  :graph/forcesettings {:link-dist 60
  :charge-range 4000
