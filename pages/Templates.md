@@ -1,6 +1,8 @@
-# NPC
-template:: NPC
-template-including-parent:: false
+-
+-
+- # NPC
+  template:: NPC
+  template-including-parent:: false
 	- type:: [[NPC]]
 	  in:: anywhere
 	  icon:: 👤
