@@ -1,7 +1,8 @@
 icon:: 📝
 exclude-from-graph-view:: false
 
-- {{query [[Sessions]]}}
-  query-table:: false
+- {{Sessions}}
   query-sort-by:: page
+  query-table:: false
   query-sort-desc:: false
+-
