@@ -57,7 +57,7 @@ exclude-from-graph-view:: true
 	  icon:: 🍻
 	  in:: anywhere
 	  status::
-- # Plot
+- ## Plot
 - template:: plot
   template-including-parent:: false
 	- type:: [[Plot]]
