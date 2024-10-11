@@ -1,6 +1,6 @@
 exclude-from-graph-view:: true
 
--
+- ###
 - # NPC
   template:: NPC
   template-including-parent:: false
