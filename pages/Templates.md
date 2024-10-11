@@ -1,6 +1,7 @@
 exclude-from-graph-view:: true
 
-- ###
+- # Session
+-
 - # NPC
   template:: NPC
   template-including-parent:: false
@@ -13,7 +14,7 @@ exclude-from-graph-view:: true
 		-
 	- ### Motivation:
 		-
-- ## Town
+- # Town
 - template:: town
   template-including-parent:: false
 	- type:: [[town]]
@@ -43,14 +44,14 @@ exclude-from-graph-view:: true
 	  (property ?b :type "Tavern")
 	   ]}
 	  #+END_QUERY
-- ## Place
+- # Place
 - template:: place
   template-including-parent:: false
 	- type:: [[Place]]
 	  icon:: 🏰
 	  description:: anything
 	  status::
-- ## Tavern
+- # Tavern
 - template:: tavern
   template-including-parent:: false
 	- type:: [[Tavern]]
