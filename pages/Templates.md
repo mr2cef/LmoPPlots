@@ -5,6 +5,7 @@ template-including-parent:: false
 	  in:: anywhere
 	  icon:: 👤
 	  description:: anything
+	  status::
 	- ### Traits:
 		-
 	- ### Motivation:
@@ -15,6 +16,7 @@ template-including-parent:: false
 	- type:: [[town]]
 	  icon:: 🏙️
 	  domain:: any
+	  status::
 	- Details of this city:
 		-
 	- query-table:: true
@@ -44,12 +46,14 @@ template-including-parent:: false
 	- type:: [[Place]]
 	  icon:: 🏰
 	  description:: anything
+	  status::
 - ## Tavern
 - template:: tavern
   template-including-parent:: false
 	- type:: [[Tavern]]
 	  icon:: 🍻
 	  in:: anywhere
+	  status::
 - # Plot
 - template:: plot
   template-including-parent:: false
