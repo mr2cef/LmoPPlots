@@ -58,14 +58,14 @@ exclude-from-graph-view:: true
 	  icon:: 🍻
 	  in:: anywhere
 	  status::
-- ## Plot
+- # Plot
 - template:: plot
   template-including-parent:: false
 	- type:: [[Plot]]
 	  icon:: ✍️
 	  status::
 -
-- ## Artefact
+- # Artefact
 - template:: artefact
   template-including-parent:: false
 	- type:: [[Artefakt]] 
