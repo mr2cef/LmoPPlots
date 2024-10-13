@@ -5,6 +5,8 @@ description:: Früherer Kultleader der [[Feuerbruderschaft]]
 status::
 
 - Ehemaliger [[Inferno-Hohepriester]] der [[Feuerbruderschaft]]
-- Trieb tie
+- Trieb die Befreiung von [[Igmor der Schreckliche]] voran.
+- Fand [[Igmors Glut]].
+- Als er
 -
 -
