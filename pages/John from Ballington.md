@@ -11,4 +11,5 @@ status::
 	- Faul
 	- Gierig
 	- Isst und trinkt gern
-- Ist pleite. Will mehr geld
+- Ist pleite. Will mehr Geld.
+-
