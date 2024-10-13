@@ -9,6 +9,6 @@ status::
 - Er war mit seinem Klut in der [[Curiosity Library]] um über den Verbleib zu recherchieren.
 - Dort las er entsetzt wer [[Igmor der Schreckliche]] wirklich war.
 - Voller Graußen vernichtete er das Buch, und versuchte sich in Märzenstadt abzusetzen.
-- Dort wurde er aber von den Schärgen vom
+- Dort wurde er aber von den Schergen vom [[Black Spider]] gefunden und sollte nun verhört werden.
 -
 -
