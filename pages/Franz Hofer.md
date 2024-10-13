@@ -5,7 +5,7 @@ description:: Früherer Kultleader der [[Feuerbruderschaft]]
 status::
 
 - Ehemaliger [[Inferno-Hohepriester]] der [[Feuerbruderschaft]]
-- Er war mit seinem Klut auf der Suche nach
--
+- Er war mit seinem Klut auf der Suche nach dem [[Gefängnis von Igmor der Schreckliche]] um ihn auszulassen.
+- Er fand die Geschichte mit [[Lady Boswood]] raus.
 -
 -
