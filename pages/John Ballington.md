@@ -1,10 +1,14 @@
 type:: [[NPC]]
-in:: anywhere
+in:: [[Balling Hold]] 
 icon:: 👤
-description:: anything
+description:: Besitzer von [[Balling Hold]] 
 status::
 
-- ### Traits:
-	-
-- ### Motivation:
-	-
+- Adliger.
+- Besitzer von [[Balling Hold]]
+- Eigenschaften:
+	- Feig
+	- Faul
+	- Gierig
+	- Isst und trinkt gern
+- Ist pleite. Will mehr geld
