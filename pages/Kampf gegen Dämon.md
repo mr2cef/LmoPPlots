@@ -17,7 +17,7 @@ icon:: ✍️
 		- Im Grabmal des Zwergenkönigs [[Ornik Ironhelm]]
 	- [[Statue von Inmon]]
 		- Im Lager der [[Graunen Hügelgoblins]]
-	- [[Artefact/Uhrwerk von Hungo]]
+	- [[Uhrwerk von Hungo]]
 		- In der [[Bank of Neverwinter]]
 	- [Gewürzschiffchen der Könige]([[Saliera]])
 		- Im kunsthistorischen Museum in Wien um 2003

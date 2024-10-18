@@ -3,5 +3,5 @@ icon:: 🏰
 description:: Große, sichere Bank
 in:: [[Neverwinter]]
 
-- Im Keller ist das [[Artefact/Uhrwerk von Hungo]]
+- Im Keller ist das [[Uhrwerk von Hungo]]
 -
