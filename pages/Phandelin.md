@@ -5,6 +5,7 @@ icon:: 🏙️
 domain:: [[Great Kingdom Neverwinter]]
 
 - Dorf, mit Abenteuer
+- Es wird im Süden [[Kupfer]] abgebaut.
 - query-table:: true
   query-properties:: [:icon :page :description]
   #+BEGIN_QUERY
