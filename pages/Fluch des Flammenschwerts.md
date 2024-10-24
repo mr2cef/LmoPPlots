@@ -1,0 +1,3 @@
+- Wenn jemand das Flammenschwert zu lange mit sich trägt, muss er einen DC15 WIS Saving Throw machen ansonsten wird er verflucht.
+- Der Fluch ist, je nachdem wie lange er mit dem Flammenschwert in Kontakt war unterschiedlich schwer:
+	- Sehr
