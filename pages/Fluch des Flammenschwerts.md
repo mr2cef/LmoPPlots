@@ -4,4 +4,5 @@
 	- Kurz: Man will das Schwert nicht mehr hergeben, weil es mächtig ist
 	- 10 min: Die Augen verfärben sich Feuerrot
 	- 30 min: Man verspürt den Drang ein Feuer zu machen
+	- 60 min: Man ist [[Igmor der Schreckliche]] vollkommen ausgesetzt
 	-
