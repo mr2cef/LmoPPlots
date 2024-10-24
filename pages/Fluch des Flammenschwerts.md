@@ -1,3 +1,7 @@
 - Wenn jemand das Flammenschwert zu lange mit sich trägt, muss er einen DC15 WIS Saving Throw machen ansonsten wird er verflucht.
 - Der Fluch ist, je nachdem wie lange er mit dem Flammenschwert in Kontakt war unterschiedlich schwer:
-	- Sehr
+	- Sehr kurz: Nichts passiert
+	- Kurz: Man will das Schwert nicht mehr hergeben, weil es mächtig ist
+	- 10 min: Die Augen verfärben sich Feuerrot
+	- 30 min: Man verspürt den Drang ein Feuer zu machen
+	-
