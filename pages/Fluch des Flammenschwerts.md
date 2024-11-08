@@ -2,7 +2,7 @@
 - Der Fluch ist, je nachdem wie lange er mit dem Flammenschwert in Kontakt war unterschiedlich schwer:
 	- Sehr kurz: Nichts passiert
 	- Kurz: Man will das Schwert nicht mehr hergeben, weil es mächtig ist
-	- 10 min: Die Augen verfärben sich Feuerrot. Ab hier schreitet der Fluch in Gegenwart des [[Gefängnis von Igmor der Schreckliche]] immer weiter fort.
+	- 10 min: Die Augen verfärben sich Feuerrot. Ab hier schreitet der Fluch in Gegenwart des [[Gefängnis von Igmor der Schreckliche]] immer weiter fort. Man hörst immer wieder ein Flüstern im Kopf.
 	- 30 min: Man verspürt den Drang ein Feuer zu machen
 	- 60 min: Man ist [[Igmor der Schreckliche]] vollkommen ausgesetzt
 	-
