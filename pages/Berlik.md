@@ -1,5 +1,5 @@
 type:: [[NPC]]
-icon
+icon:: 👤
 
 - ### Name: Balrik Steinhammer
   
