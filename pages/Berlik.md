@@ -1,11 +1,14 @@
-### Name: Balrik Steinhammer
+type:: [[NPC]]
+icon
 
-**Rasse:** Zwerg
-**Klasse:** Experte (Meisterhandwerker)
-**Alter:** 134 Jahre
-**Aussehen:** Balrik ist stämmig mit einem langen, geflochtenen Bart, der mit kleinen Metallringen verziert ist. Seine Hände sind rau und voller Schwielen, ein Zeichen seiner lebenslangen Arbeit mit Stein und Holz. Er trägt eine lederne Werkstattschürze und hat immer ein Miniaturmodell eines aktuellen Bauprojekts bei sich.
-**Persönlichkeit:** Balrik ist pragmatisch und detailverliebt, hat jedoch einen trockenen Humor, der oft in seinen Kommentaren durchscheint. Er liebt es, über komplizierte architektonische Entwürfe zu sprechen, verliert sich aber manchmal in den Details.
-**Fähigkeiten:**
+- ### Name: Balrik Steinhammer
+  
+  **Rasse:** Zwerg
+  **Klasse:** Experte (Meisterhandwerker)
+  **Alter:** 134 Jahre
+  **Aussehen:** Balrik ist stämmig mit einem langen, geflochtenen Bart, der mit kleinen Metallringen verziert ist. Seine Hände sind rau und voller Schwielen, ein Zeichen seiner lebenslangen Arbeit mit Stein und Holz. Er trägt eine lederne Werkstattschürze und hat immer ein Miniaturmodell eines aktuellen Bauprojekts bei sich.
+  **Persönlichkeit:** Balrik ist pragmatisch und detailverliebt, hat jedoch einen trockenen Humor, der oft in seinen Kommentaren durchscheint. Er liebt es, über komplizierte architektonische Entwürfe zu sprechen, verliert sich aber manchmal in den Details.
+  **Fähigkeiten:**
 - Meisterhaft im Umgang mit Werkzeugen wie Hammer, Meißel und Säge
 - Kennt sich bestens mit Architektur und Ingenieurskunst aus
 - Kann provisorische Gebäude errichten oder beschädigte Strukturen stabilisieren
