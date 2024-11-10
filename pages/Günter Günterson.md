@@ -9,4 +9,6 @@ status::
 - ### Motivation:
 -
 - Mann von [[Gitti Günterson]]
-- Bruder von [[Andi Günterson]]  und
+- Bruder von [[Andi Günterson]] und[[Sepp Günterson]]
+- der 3. Sohn von Günter heißt Günter
+-
