@@ -1,7 +1,8 @@
 type:: [[NPC]]
-in:: anywhere
+in:: [[Neverwinter]] 
 icon:: 👤
-description:: anything
+description:: Sohn es Bürgermeisterns
+
 status::
 
 - ### Traits:
