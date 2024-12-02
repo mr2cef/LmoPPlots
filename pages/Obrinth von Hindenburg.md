@@ -5,6 +5,6 @@ description:: Bürgermeister von [[Neverwinter]]
 status:: 🤷‍♂️
 
 - ### Traits:
-	- c
+	- **Distanziert**: Wirkt emotional losgelöst von den Problemen der Stadt, was ihn desinteressiert oder resigniert erscheinen lässt.
 - ### Motivation:
 	-
