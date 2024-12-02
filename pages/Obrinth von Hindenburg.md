@@ -1,8 +1,8 @@
 type:: [[NPC]]
-in:: anywhere
+in:: [[Neverwinter]] 
 icon:: 👤
-description:: anything
-status::
+description:: Bürgermeister von [[Neverwinter]] 
+status:: 🤷‍♂️
 
 - ### Traits:
 	-
