@@ -7,5 +7,8 @@ status::
 
 - ### Traits:
 	- High Elf
+	- Selbstunsicher
+	- Schwarze Haare
+	- Teure Kleidung
 - ### Motivation:
 	-
