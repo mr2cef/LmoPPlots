@@ -11,5 +11,6 @@ status::
 	- Schwarze Haare
 	- Teure Kleidung
 - ### Motivation:
-	- Er will die Anerkenn
+	- Er will die Anerkennung seines Vates [[Obrinth von Hindenburg]]
+	-
 -
