@@ -5,6 +5,6 @@ description:: Bürgermeister von [[Neverwinter]]
 status:: 🤷‍♂️
 
 - ### Traits:
-	-
+	- c
 - ### Motivation:
 	-
