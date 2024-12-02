@@ -2,7 +2,7 @@ type:: [[NPC]]
 in:: anywhere
 icon:: 👤
 description:: anything
-status::
+status:: 💀
 
 - ### Traits:
 	-
