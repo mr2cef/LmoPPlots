@@ -2,8 +2,8 @@ type:: [[Artefakt]]
 icon:: 💍
 
 - ### **Cap of Mycelial Insight**
-  
-  *Wondrous item, rare (requires attunement by a Wizard)*
+-
+- Wondrous item, rare (requires attunement by a Wizard)*
   
   This whimsical wizard hat is adorned with an assortment of colorful mushrooms that pulse faintly with bioluminescent energy. The cap hums with natural and arcane power, granting its wearer enhanced magical defenses and utility in combat.
   
