@@ -3,13 +3,7 @@ icon:: 💍
 
 - ### **Cap of Mycelial Insight**
 - ![DALL·E 2025-01-04 20.08.14 - A whimsical and magical wizard hat covered with a variety of mushrooms on its top. The hat has a pointed shape, and its brim is mossy and textured, wi.webp](../assets/DALL·E_2025-01-04_20.08.14_-_A_whimsical_and_magical_wizard_hat_covered_with_a_variety_of_mushrooms_on_its_top._The_hat_has_a_pointed_shape,_and_its_brim_is_mossy_and_textured,_wi_1736017826236_0.webp){:height 147, :width 174}
-- Wondrous item, rare (requires attunement by a Wizard)*
-  
-  This whimsical wizard hat is adorned with an assortment of colorful mushrooms that pulse faintly with bioluminescent energy. The cap hums with natural and arcane power, granting its wearer enhanced magical defenses and utility in combat.
-  
-  ---
-  
-  **Properties:**
+- **Properties:**
 - **Arcane Amplification:**
   The hat grants a **+1 bonus to your Spell Save DC** and **+1 bonus to your AC against spell attacks**.
 - **Sporebound Connection:**
