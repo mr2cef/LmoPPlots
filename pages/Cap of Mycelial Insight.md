@@ -18,3 +18,4 @@ icon:: 💍
 	- Your companion can deliver touch spells as if you had cast them yourself, as long as it is within 30 feet of you.
 - **Defensive Spores:**
   Once per long rest, when you are targeted by an attack, you can use your reaction to release a burst of defensive spores. The attacker must succeed on a **Constitution saving throw (DC 15)** or have **disadvantage** on their attack roll.
+-
