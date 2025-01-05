@@ -1,4 +1,4 @@
 type:: [[Artefakt]] 
 icon:: 💍
 
-- Man kann mit einer Bonusaktion einen Schadenswurf auf 0 verringern
+- Man kann mit einer Reaktion einen Schadenswurf auf 0 verringern
