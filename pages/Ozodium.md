@@ -12,3 +12,4 @@ status:: 💀
 	- vergesslich
 - ### Motivation:
 	- er will nicht, dass sein Schwindel auffliegt, dass er [[Igmor der Schreckliche]] nicht besiegt hat.
+- Wohnt in Wien. Es vergeht
