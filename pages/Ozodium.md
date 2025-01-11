@@ -2,7 +2,7 @@ description:: historischer Magier
 in:: begraben im Friedhof von [[Langtoft]] 
 type:: [[NPC]]
 icon:: 👤
-status:: 💀
+status:: ❓️
 
 -
 - ### Info:
