@@ -22,7 +22,7 @@ status:: 🫨
   
   Two heads. One body. A thousand disagreements.
 - **Skrig** (left head): Calculating, silver-tongued, always squinting and sneering. Loves rare poisons and prides himself on “precision alchemy.” Hates children.
-- **Blarn** (right head): Madcap giggler. Wild ideas, wilder brews. Inventor of potions like *"Bottle o’ Boom"* and *"Mimic Juice."* Constantly talks to insects.
+- **Brandy** (right head): Madcap giggler. Wild ideas, wilder brews. Inventor of potions like *"Bottle o’ Boom"* and *"Mimic Juice."* Constantly talks to insects.
   
   They bicker constantly—loudly—and each claims to brew the better half of any potion sold.
   
