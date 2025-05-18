@@ -9,7 +9,7 @@ status:: 🫨
   **Alignment:** *Chaotic Neutral*
   **Location:** *Wherever the wind, coin, or curses blow.*
   **Reputation:** Known in whispers as *“The Split Whisperer”* or *“Double-Dose”*
-- ![image.png](../assets/image_1743537285681_0.png)
+- ![image.png](../assets/image_1743537285681_0.png){:height 401, :width 388}
 - ---
 - ### 🧪  **Their Potion Carriage – “The Rolling Remedy”**
   
